@@ -6,6 +6,7 @@ from langchain.indexes import VectorstoreIndexCreator
 import streamlit as st
 from streamlit_chat import message
 import pandas as pd
+import requests
 from langchain.agents import create_pandas_dataframe_agent
 from langchain.chat_models import ChatOpenAI
 import matplotlib.pyplot as plt
