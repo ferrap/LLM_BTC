@@ -5,3 +5,4 @@ streamlit-chat
 matplotlib
 seaborn
 requests
+tabulate
