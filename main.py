@@ -51,4 +51,4 @@ if prompt:
 
     # Write the results from the LLM to the UI
     #st.write("<b>" + prompt + "</b><br><i>" + response + "</i><hr>", unsafe_allow_html=True )
-    st.pyplot(response)
+    st.write(response)
